@@ -168,14 +168,14 @@ Import `EventHub.postman_collection.json` into Postman.
 
 ## 10. Features
 
-- ✅ Secure login with hashed passwords (bcrypt) and JWT-protected routes
-- ✅ Dashboard with live stats and upcoming events
-- ✅ Full CRUD for Events (Add / View / Edit / Delete)
-- ✅ Full CRUD for Attendees (Add / View / Edit / Delete)
-- ✅ Search events by name, search attendees by name
-- ✅ Many-to-many Event ↔ Attendee registration system
-- ✅ Frontend + backend validation (required fields, valid email, valid phone, no duplicate emails)
-- ✅ Responsive design (mobile, tablet, desktop) using Tailwind CSS
+- Secure login with hashed passwords (bcrypt) and JWT-protected routes
+- Dashboard with live stats and upcoming events
+- Full CRUD for Events (Add / View / Edit / Delete)
+- Full CRUD for Attendees (Add / View / Edit / Delete)
+- Search events by name, search attendees by name
+- Many-to-many Event ↔ Attendee registration system
+- Frontend + backend validation (required fields, valid email, valid phone, no duplicate emails)
+- Responsive design (mobile, tablet, desktop) using Tailwind CSS
 
 ---
 
@@ -191,5 +191,4 @@ Import `EventHub.postman_collection.json` into Postman.
 
 ## Author's Note
 
-This project was built for a university web development course assignment and is intentionally
-kept simple so every part can be explained during a viva.
+This project was built for a university web development course assignment.
