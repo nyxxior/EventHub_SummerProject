@@ -1,4 +1,4 @@
-# EventHub Nepal 🎉
+# EventHub Nepal 
 
 A simple **Event Management System** built for a 3rd Semester Web Development university project.
 Admins can log in and manage events, attendees, and event registrations for events happening
